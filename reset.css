@@ -7,13 +7,13 @@ Twitter: @rich_clark
 */
 
 @font-face {
-    font-family: 'Courier WebCut';
-    src: url(/CourierWebCut.ttf);
+    font-family: 'Aberfan Sans';
+    src: url(https://delivercdn.pages.dev/AberfanEditor/AberfanSans/AberfanSans.ttf);
 }
-
+  
 @font-face {
-    font-family: 'JupiterSans';
-    src: url(/jupitersans.ttf);
+    font-family: 'Aberfan Sans Bold';
+    src: url(https://delivercdn.pages.dev/AberfanEditor/AberfanSans/AberfanSans-Bold.ttf);
 }
 
 html, body, div, span, object, iframe,
@@ -33,7 +33,7 @@ time, mark, audio, video {
     border:0;
     outline:0;
     font-size:100%;
-    font-family: 'JupiterSans';
+    font-family: 'Aberfan Sans';
     vertical-align:baseline;
     background:transparent;
 }
@@ -65,7 +65,7 @@ a {
     margin:0;
     padding:0;
     font-size:100%;
-    font-family: 'JupiterSans';
+    font-family: 'Aberfan Sans';
     vertical-align:baseline;
     background:transparent;
 }
@@ -79,9 +79,9 @@ ins {
 
 /* change colours to suit your needs */
 mark {
-    background-color:#e3e3e3;
+    background-color:#283b4e;
     color:#1f1f1f;
-    font-family: 'JupiterSans';
+    font-family: 'Aberfan Sans';
 }
 
 del {
@@ -103,7 +103,7 @@ hr {
     display:block;
     height:1px;
     border:0;   
-    border-top:1px solid #e3e3e3;
+    border-top:1px solid #4a90ab;
     margin:1em 0;
     padding:0;
 }
